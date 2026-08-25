@@ -1,0 +1,17 @@
+{
+  "name": "Siteflow Daily Field Reports",
+  "short_name": "Siteflow",
+  "description": "Fast daily field reporting for construction crews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5ef",
+  "theme_color": "#163b35",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
